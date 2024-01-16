@@ -3,7 +3,8 @@
 ## 🌱 I’m currently improving my skills in JavaScript and TypeScript and ASP.net C#
 ## 💞️ I’m looking to collaborate on projects that can help me elevate my current skills to a higher level
 ## 📫 How to reach me
-    - https://discord.gg/mEFHpM7NjX
+- Discord: 1xtra
+- Or join my server: https://discord.gg/mEFHpM7NjX
 ## 😄 Pronouns: He\Him\nerd
 
 <!---
