@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ONE XTRA
+# 👋 Hi, I’m XTRA
 #### 👀 I’m interested in improving my coding skills and expanding my social network
 #### 🌱 I’m currently improving my skills in JavaScript and TypeScript and ASP.net C#
 #### 💞️ I’m looking to collaborate on projects that can help me elevate my current skills to a higher level
